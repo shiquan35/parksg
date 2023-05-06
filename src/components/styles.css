@@ -1,0 +1,19 @@
+.map {
+  display: flex;
+  justify-content: center;
+}
+
+.markerButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.markerButton img {
+  width: 20px;
+  height: 20px;
+}
+
+.mantine-174hbek {
+  width: 24%;
+}
